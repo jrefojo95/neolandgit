@@ -1,7 +1,3 @@
 xkxkkx
-<<<<<<< HEAD
 bb
 ccccc
-=======
-dddddd
->>>>>>> nueva

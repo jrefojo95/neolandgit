@@ -1,7 +1,3 @@
 estoy haciendo un bootcamp
-<<<<<<< HEAD
 bb
 cccc
-=======
-ddddddd
->>>>>>> nueva
